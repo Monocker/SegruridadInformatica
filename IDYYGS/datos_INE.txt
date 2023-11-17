@@ -1,0 +1,10 @@
+Datos de la INE:
+nombre: Luis
+apellido: Villafaña
+edad: 33
+sexi: h
+domicilio: cancun qroo
+CURP: kasndksajn7867
+CLAVE: 250990
+Vigencia: 2025
+Seccion: 7667
